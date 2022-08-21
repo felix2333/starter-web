@@ -10,6 +10,6 @@ Sample website with plenty of files for demos
 
 New input in this file
 
-#git COMPARE
+#git COMPARE2
 
-test cOMPARE WITH REMOTE REPO
+test cOMPARE 
