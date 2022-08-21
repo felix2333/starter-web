@@ -9,3 +9,7 @@ Sample website with plenty of files for demos
 ### MOTIVE
 
 New input in this file
+
+#git COMPARE
+
+test cOMPARE WITH REMOTE REPO
