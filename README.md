@@ -13,3 +13,5 @@ New input in this file
 #git COMPARE2
 
 test cOMPARE 
+
+New change as of 21/08/2022
