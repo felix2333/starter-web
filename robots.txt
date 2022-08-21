@@ -1,3 +1,5 @@
 # robotstxt.org/
 
 User-agent: *
+
+#NEW entry in robots.txt
